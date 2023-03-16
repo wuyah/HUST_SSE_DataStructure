@@ -1,0 +1,3 @@
+C:/Users/lussiouserror/coding/PureC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lussiouserror/coding/PureC/cmake-build-debug/CMakeFiles/PureC.dir
+C:/Users/lussiouserror/coding/PureC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
